@@ -4,4 +4,5 @@ Este repositorio contiene los protocolos de análisis de datos para la materia E
 
 ## Experimentos:
 
-1. Análisis del espectro de absorción de Oxo-cianinas y Tia-cianinas.
+1. Análisis del espectro de absorción de Oxo-cianinas y Tia-cianinas: transiciones electrónicas moluculares.
+2. Análisis del espectro de absorción de Centros F (centros de color, o _farbenzentrum_) en haluros alcalinos: transiciones electrónicas en vacancias.
